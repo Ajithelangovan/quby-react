@@ -1,0 +1,24 @@
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+section{
+    padding: 50px 0px;
+}
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.col-6{
+    flex: 1;
+}
+h1{
+    margin-bottom: 0px;
+}
+.mr-2{
+    margin-right: 20px;
+}
+.text-center{
+    text-align: center;
+}
